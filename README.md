@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+TechWave XR Online Platform
+TechWave Inc. is at the forefront of developing innovative technology solutions. Our latest product, TechWave XR, delivers an immersive augmented reality experience for users. This project aims to create an online platform to introduce and pre-order the new TechWave XR.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features
+Product Page: Display the main characteristics and features of TechWave XR. Includes photos, videos, and product descriptions.
+Order Form: Form for pre-ordering the AR device. Requests the user's name, email address, and desired number of devices. Validates data on the client side.
+News Feed: Section with the latest news about TechWave XR - release dates, updates, and other important events.
+Contact Information: Section with company contact information for communicating with potential clients.
+Responsive Design: Ensures the web application is responsive to display correctly on different devices.
+Technology Stack
+React.js
+CSS
+React Router for navigation
+GitHub Pages for deployment
+Detailed Components
+Header
+A fixed header with navigation links to the Product Page, Order Form, Contact Info, and News Feed.
 
-## Available Scripts
+Product Page
+Displays the main characteristics and features of TechWave XR, including immersive 360° view, high-resolution display, advanced motion tracking, ergonomic design, and wireless connectivity.
 
-In the project directory, you can run:
+Order Form
+Form for users to pre-order TechWave XR, including fields for name, email, and quantity. The form validates data on the client side and provides an overview of the product's features and price.
 
-### `npm start`
+News Feed
+Section with the latest news and updates about TechWave XR, including launch events, pre-order availability, awards, development insights, and user testimonials.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Contact Information
+Section with detailed contact information for TechWave Inc., including company details, operating hours, and contact methods.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Deployment
+The application is deployed to GitHub Pages to showcase the work. You can view the deployed site here.
+[Deploy link](https://SammytheBelegor.github.io/TechWave-Inc.)
+Screenshots and Videos
+For screenshots and videos of the application, please visit the Google Drive folder:
+[Google drive](https://drive.google.com/drive/folders/11BiJ4SCQVhHYxB0RjbguGBDrs2Oc31ps?usp=sharing)
