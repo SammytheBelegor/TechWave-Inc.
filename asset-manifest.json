@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TechWave-Inc./static/css/main.dd6631b7.css",
+    "main.js": "/TechWave-Inc./static/js/main.c3007313.js",
+    "static/js/453.4d0f0eaf.chunk.js": "/TechWave-Inc./static/js/453.4d0f0eaf.chunk.js",
+    "static/media/background.jpg": "/TechWave-Inc./static/media/background.ce965427a57296a23eb9.jpg",
+    "static/media/image1.jpg": "/TechWave-Inc./static/media/image1.2ced4339458db74ec7f5.jpg",
+    "index.html": "/TechWave-Inc./index.html",
+    "main.dd6631b7.css.map": "/TechWave-Inc./static/css/main.dd6631b7.css.map",
+    "main.c3007313.js.map": "/TechWave-Inc./static/js/main.c3007313.js.map",
+    "453.4d0f0eaf.chunk.js.map": "/TechWave-Inc./static/js/453.4d0f0eaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6631b7.css",
+    "static/js/main.c3007313.js"
+  ]
+}
