@@ -29,8 +29,11 @@ Contact Information
 Section with detailed contact information for TechWave Inc., including company details, operating hours, and contact methods.
 
 Deployment
+
 The application is deployed to GitHub Pages to showcase the work. You can view the deployed site here.
 [Deploy link](https://SammytheBelegor.github.io/TechWave-Inc.)
+
 Screenshots and Videos
+
 For screenshots and videos of the application, please visit the Google Drive folder:
 [Google drive](https://drive.google.com/drive/folders/11BiJ4SCQVhHYxB0RjbguGBDrs2Oc31ps?usp=sharing)
