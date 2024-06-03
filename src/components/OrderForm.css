@@ -1,0 +1,102 @@
+/* src/components/OrderForm.css */
+.order-form {
+    background: #f4f4f4;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 1000px;
+    margin: 40px auto;
+    color: #333;
+}
+
+.order-form-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 20px;
+}
+
+.order-image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.order-details {
+    flex: 1;
+    padding-left: 20px;
+}
+
+.order-details h2 {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.order-details p {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.order-details ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.error {
+    color: red;
+    font-size: 0.9em;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+@media (max-width: 768px) {
+    .order-form-container {
+        flex-direction: column;
+    }
+
+    .order-image-container {
+        padding-right: 0;
+        padding-bottom: 20px;
+    }
+
+    .order-details {
+        padding-left: 0;
+    }
+}
